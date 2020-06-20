@@ -1,5 +1,4 @@
 ##RKF_52 IS A Open Source Facebook Exploiting Tool
-
 ##Only For Education Purpose
 
 ## A FACEBOOK HACKING TOOLKIT WRITTEN IN PYTHON
@@ -35,17 +34,17 @@
 - [x] See my group list
 - [x] Profile Guard
 
-## INSTALLATION
+# INSTALLATION
 git clone https://github.com/rkf52/rkf52/
 cd /rkf52
 python2 RKF-52.py
 
 
-##Requirements For This Tool
+#Requirements For This Tool
 apt-get install git -y
 apt-get install python2
 apt-get install python2-pip
 pip instal requests
 pip install mechanize
 
-##Do not copy without My credit!
+#Do not copy without My credit!
