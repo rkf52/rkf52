@@ -1,5 +1,5 @@
-#RKF_52 IS A Open Source Facebook Exploiting Tool
-#Only For Education Purpose
+## RKF_52 IS A Open Source Facebook Exploiting Tool
+## Only For Education Purpose
 
 ## A FACEBOOK HACKING TOOLKIT WRITTEN IN PYTHON
 
@@ -40,12 +40,12 @@ cd /rkf52
 python2 RKF-52.py
 
 
-#Requirements For This Tool
-apt-get install git -y
-apt-get install python2
-apt-get install python2-pip
-pip instal requests
-pip install mechanize
+## Requirements For This Tool
+$apt-get install git -y
+$apt-get install python2
+$apt-get install python2-pip
+$pip instal requests
+$pip install mechanize
 
 
--Do not copy without My credit!
+- Do not copy without My credit!
